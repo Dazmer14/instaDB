@@ -24,17 +24,17 @@ The backend handles the scraping logic, while the frontend fetches and renders t
  
 ⚙️ Installation & Setup  
 
-# 1. Clone the repo
+1. Clone the repo
 git clone https://github.com/your-username/instaDB.git
 cd instaDB
 
-# 2. Install and start backend
+2. Install and start backend
 cd backend
 npm install
 npm start &
 backend now runs at http://localhost:5000
 
-# 3. Install and start frontend
+3. Install and start frontend
 cd ../frontend
 npm install
 npm start
