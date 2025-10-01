@@ -28,7 +28,7 @@ The backend handles the scraping logic, while the frontend fetches and renders t
 git clone https://github.com/your-username/instaDB.git
 cd instaDB
 
-2. Install and start backend
+2. Install and start backend (provided hosted link may be broken)
 -cd backend
 -npm install
 -npm start 
