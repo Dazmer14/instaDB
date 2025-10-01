@@ -15,14 +15,14 @@ The backend handles the scraping logic, while the frontend fetches and renders t
 
 ---
 
-# 🛠️ Tech Stack  
+🛠️ Tech Stack  
 - **Frontend**: React, Fetch API, Tailwind (optional)  
 - **Backend**: Node.js, python (for scraping)  
 - **Database** (optional): MongoDB / SQLite (if you want to store results)  
 
 ---
  
-# ⚙️ Installation & Setup  
+⚙️ Installation & Setup  
 
 # 1. Clone the repo
 git clone https://github.com/your-username/instaDB.git
