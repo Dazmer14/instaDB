@@ -29,13 +29,13 @@ git clone https://github.com/your-username/instaDB.git
 cd instaDB
 
 2. Install and start backend
-cd backend
-npm install
-npm start &
-backend now runs at http://localhost:5000
+-cd backend
+-npm install
+-npm start 
+-backend now runs at http://localhost:5000
 
 3. Install and start frontend
-cd ../frontend
-npm install
-npm start
-backend now runs at http://localhost:3000
+-cd ../frontend
+-npm install
+-npm start
+-backend now runs at http://localhost:3000
