@@ -32,10 +32,10 @@ cd instaDB
 cd backend
 npm install
 npm start &
-# backend now runs at http://localhost:5000
+backend now runs at http://localhost:5000
 
 # 3. Install and start frontend
 cd ../frontend
 npm install
 npm start
-# backend now runs at http://localhost:3000
+backend now runs at http://localhost:3000
