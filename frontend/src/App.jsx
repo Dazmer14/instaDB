@@ -13,7 +13,7 @@ const colors = {
 function App() {
   const [profile, setProfile] = useState(null);
   const [posts, setPosts] = useState([]);
-  const [username, setUsername] = useState("realgoodai"); // default username
+  const [username, setUsername] = useState("instagram"); // default username
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
@@ -124,3 +124,4 @@ function App() {
 }
 
 export default App;
+
